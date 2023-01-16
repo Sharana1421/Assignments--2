@@ -3,6 +3,10 @@
 <head>
     <title>Assesiment-2</title>
     <style>
+     body{
+            background-image: url("https://t4.ftcdn.net/jpg/00/33/84/93/360_F_33849320_xLggyZyLq1KlPtb3jLdR0bKDlBIBP0XD.jpg");
+            background-size: cover;
+        }
         
         .b{
             width: 100px;
