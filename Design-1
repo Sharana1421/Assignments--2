@@ -3,9 +3,7 @@
 <head>
     <title>Assesiment-2</title>
     <style>
-        body{
-            background-image: url("https://static.theprint.in/wp-content/uploads/2018/08/My_India.jpg?compress=true&quality=80&w=376&dpr=2.6");
-        }
+        
         .b{
             width: 100px;
             height: 100px;
