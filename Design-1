@@ -1,1 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Assesiment-2</title>
+    <style>
+        body{
+            background-image: url("https://cdn5.vectorstock.com/i/1000x1000/37/94/happy-makar-sankranti-wallpaper-with-colorful-kite-vector-23243794.jpg");
+        }
+        .b{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,red,yellow,red);
+            margin-left:1100px;
+            margin-top: -100px;
+            border: 2px inset black;
+            
+        }
+        h1{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,yellow,maroon,brown,red,orange,yellow);
+            margin:1px 0px;
+            border: 2px double red;
+            
+        }
+        .a{
+            width: 100px;
+            height: 100px;
+            background: repeating-radial-gradient(red,black 8%,orange 15%);
+            margin-left:998px;
+            border: 2px solid black;
+            
+        }
+        h2{
+            width: 100px;
+            height: 100px;
+            background: repeating-radial-gradient(blue,yellow 10%,green 15%);
+            margin: 0px 100px;
+            margin-top: -105px;
+            border: 2px groove green;
+        }
+        .c{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,pink,green);
+            margin-left:893px;
+            border: 2px solid orangered;
+            
+        }
+        h3{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,#FF6699,#33CCFF);
+            margin: 0px 201px;
+            border: 2px solid darkgreen;
+        }
+        .d{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(#FF33CC,#33CCFF);
+            margin-left:788px;
+            border: 2px solid green;
+            
+        }
+        h4{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,lightblue,lightgreen);
+            margin: 0px 300px;
+            border: 2px solid orangered;
+        }
+        .e{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,red,orange,yellow);
+            margin-left:680px;
+            margin:0 686px;
+            margin-top: -20px;
+            border: 2px solid red;
+            
+        }
+        h5{
+            width: 100px;
+            height: 100px;
+            background: linear-gradient(45deg,lightblue,red);
+            margin-left: 306px;
+            margin-top: -105px;
+            text-align: center;
+            border: 2px dotted darkgoldenrod;
 
+        }
+        h6{
+            width: 100px;
+            height: 100px;
+            color: azure;
+            background: linear-gradient(darkgreen,orange);
+            margin-left: 408px;
+            margin-top: -105px;
+            border: 2px solid darkgreen;
+
+        }
+        .f{
+            width: 175px;
+            height: 105px;
+            text-align: center;
+            color: ghostwhite;
+            background: linear-gradient( to bottom right,red,blue);
+            margin-left:520px;
+            margin: -24px 508px;
+            border: 2px solid red;
+            
+        }
+    </style>
+</head>
+<body>
+    <h1></h1> 
+    <h1 class="b"></h1>
+    <h1 class="a"></h1>
+    <h2></h2> 
+    <h3></h3>
+     <h2 class="c"><marquee behavior="alternate" direction="">****</marquee>
+     <marquee behavior="alternate" direction="">***</marquee>
+     <marquee behavior="alternate" direction="">**</marquee>
+     </h2>
+    <h4 class="d"></h4>
+    <h5>
+    </h5> 
+    <h5 class="e"></h5>
+    <h6>
+        <marquee>OK Google......!</marquee>
+    </h6>
+    <h6 class="f">
+        <marquee behavior="alternate" direction="">---</marquee>
+        <marquee behavior="alternate" direction="">----</marquee>
+        <marquee behavior="alternate" direction="">-----</marquee>
+        <marquee behavior="alternate" direction="">------</marquee>
+        <marquee behavior="alternate" direction="">-------</marquee>
+        <marquee behavior="alternate" direction="">--------</marquee>
+        <marquee behavior="alternate" direction="">----------</marquee>
+    </h6>
+    
+</body>
+</html>
